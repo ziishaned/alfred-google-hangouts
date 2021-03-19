@@ -1,4 +1,4 @@
-# alfred-google-hangouts-workflow
+# alfred-google-hangouts
 
 > Alfred workflow which creates a Google Hangouts link and copy it inside your clipboard
 
