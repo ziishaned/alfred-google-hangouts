@@ -2,6 +2,8 @@
 
 > Alfred workflow which creates a Google Hangouts link and copy it inside your clipboard
 
+![demo](https://imgur.com/4EouEpa.gif)
+
 ### Installation
 
 1. Download the Google Hangouts alfred workflow file from [here](/GoogleHangouts.alfredworkflow)
