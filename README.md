@@ -4,7 +4,7 @@
 
 ### Installation
 
-1. Download the Google Hangouts alfred workflow from [here](/GoogleHangouts.alfredworkflow)
+1. Download the Google Hangouts alfred workflow file from [here](/GoogleHangouts.alfredworkflow)
 2. Import `GoogleHangouts.alfredworkflow` file into Alfred
 3. Inside alfred type `meet` then hit enter
 4. Google Hangouts will open inside the Google Chrome
